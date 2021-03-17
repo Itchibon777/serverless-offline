@@ -7,6 +7,12 @@
     "typescript": "^3.7.3"
   },
   "dependencies": {
-    "serverless-offline": "^6.0.0"
-  }
+    "serverless-offline": "^6.0.0",
+    "snyk": "^1.495.0"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
