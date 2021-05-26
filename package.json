@@ -168,7 +168,7 @@
     "semver": "^7.1.1",
     "update-notifier": "^4.0.0",
     "velocityjs": "^2.0.0",
-    "ws": "^7.2.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.5",
