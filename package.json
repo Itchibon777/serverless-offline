@@ -152,7 +152,7 @@
     "cuid": "^2.1.8",
     "execa": "^3.4.0",
     "fs-extra": "^8.1.0",
-    "hapi-swagger": "^11.1.0",
+    "hapi-swagger": "^17.0.0",
     "js-string-escape": "^1.0.1",
     "jsonpath-plus": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
